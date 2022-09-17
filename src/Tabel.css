@@ -1,0 +1,27 @@
+table {
+    width: 100%;
+ 
+    color: #444;
+  }
+  
+  tr {
+    margin-bottom: 30px;
+  }
+  
+  th {
+    width: 350px;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    text-align: left;
+
+    
+    font-size: 20px;
+  }
+  
+  td {
+    width: 350px;
+    font-size: 20px;
+    text-align: left;
+   
+
+  }
